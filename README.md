@@ -1,6 +1,8 @@
 # BPlusTree
 A Version of BPTree
 
+For Python version 3.5.1
+
 Author:     SXYLiu
 
 AchieveTime:2016.4.11
